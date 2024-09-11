@@ -12,7 +12,6 @@
  body {
     font-family: "Outfit", sans-serif;
     background-color: var(--Slate300);
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
