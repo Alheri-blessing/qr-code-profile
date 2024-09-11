@@ -13,10 +13,10 @@
     font-family: "Outfit", sans-serif;
     background-color: var(--Slate300);
     width: 100%;
-    padding: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
  }
  .container {
     display: flex;
